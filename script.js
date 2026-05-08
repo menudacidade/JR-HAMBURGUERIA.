@@ -50,10 +50,10 @@ const BURGERS = [
 const DRINKS = [
   { id: 101, name: "Coca-Cola Original (2L)", price: 15.0, image: "coca cola original.png", badge: null },
   { id: 102, name: "Coca-Cola Zero (Lata 350ml)", price: 6.0, image: "coca cola zero.png", badge: null },
-  { id: 103, name: "Coca-Cola Lata (350ml)", price: 5.0, image: "coca lata.png", badge: null },
-  { id: 104, name: "Guaraná (Lata 350ml)", price: 5.0, image: "guaraná lata.png", badge: null },
-  { id: 105, name: "Fanta Laranja (Lata 350ml)", price: 5.0, image: "fanta laranja.png", badge: null },
-  { id: 106, name: "Fanta Uva (Lata 350ml)", price: 5.0, image: "fanta uva.png", badge: null }
+  { id: 103, name: "Coca-Cola Lata (350ml)", price: 6.0, image: "coca lata.png", badge: null },
+  { id: 104, name: "Guaraná (Lata 350ml)", price: 6.0, image: "guaraná lata.png", badge: null },
+  { id: 105, name: "Fanta Laranja (Lata 350ml)", price: 6.0, image: "fanta laranja.png", badge: null },
+  { id: 106, name: "Fanta Uva (Lata 350ml)", price: 6.0, image: "fanta uva.png", badge: null }
 ];
 
 /* ======================================================
